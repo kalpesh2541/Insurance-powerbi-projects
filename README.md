@@ -47,8 +47,8 @@ The dataset includes the following key attributes:
 - Marketing and policy targeting  
 
 ---
----<img width="1290" height="729" alt="Answer 1" src="<img width="1361" height="803" alt="Dashboard" src="https://github.com/user-attachments/assets/020d17e0-99ee-49e1-ba2c-fefe51ba2cbd" />
-" />
+---<img width="1361" height="803" alt="Dashboard" src="https://github.com/user-attachments/assets/020d17e0-99ee-49e1-ba2c-fefe51ba2cbd" />
+
 
 ## Deliverables
 - Power BI File: <a href="https://github.com/kalpesh2541/Insurance-powerbi-projects/blob/main/Insurance%20Claims%20Analysis%20Report.pbix">Click Here</a> 
