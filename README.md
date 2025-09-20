@@ -47,6 +47,12 @@ The dataset includes the following key attributes:
 - Marketing and policy targeting  
 
 ---
+---<img width="1290" height="729" alt="Answer 1" src="<img width="1361" height="803" alt="Dashboard" src="https://github.com/user-attachments/assets/020d17e0-99ee-49e1-ba2c-fefe51ba2cbd" />
+" />
 
 ## Deliverables
 - Power BI File: <a href="https://github.com/kalpesh2541/Insurance-powerbi-projects/blob/main/Insurance%20Claims%20Analysis%20Report.pbix">Click Here</a> 
+
+
+## Conclusion
+The Insurance Risk & Claims Analysis project demonstrates how raw insurance data can be transformed into actionable insights using Power BI. By combining demographic details, vehicle information, and claim history, the analysis enables insurers to identify high-risk groups, optimize premium pricing, detect fraud, and improve customer targeting strategies. With interactive KPIs and visualizations, stakeholders gain a clearer understanding of claim behaviors and policyholder profiles, supporting data-driven decision-making that enhances both profitability and customer satisfaction.
