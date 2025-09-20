@@ -1,4 +1,6 @@
-# 📊 Insurance Risk & Claims Analysis
+INSURANCE RISK & CLAIMS ANALYSIS
+
+## Project Overview
 
 This project provides a comprehensive analysis of car insurance policyholders, their vehicles, and their claim history. Using **Power BI dashboards**, the project transforms raw data into actionable insights for insurers to make **data-driven business decisions**.  
 
@@ -46,7 +48,5 @@ The dataset includes the following key attributes:
 
 ---
 
-## 🛠️ How to Use
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/insurance-risk-claims-analysis.git
+## Deliverables
+- Power BI File: <a href="https://github.com/kalpesh2541/Online-Retail-Data-analysis/blob/main/RESULT%20(1).pbix">Click Here</a> 
